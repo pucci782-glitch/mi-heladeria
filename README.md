@@ -1,47 +1,26 @@
-# Dulce Frío | Heladería Artesanal
-**Proyecto de Landing Page para Presentación Académica**
+# 🍦 Mimi Helados - Landing Page
 
-Una página web moderna, limpia y responsive diseñada como una landing page de una sola página (*single-page*) para una heladería artesanal de alta calidad llamada **Dulce Frío**.
+Sitio web sencillo y responsivo diseñado para promocionar los productos, sabores y equipo de trabajo de la heladería artesanal **Mimi Helados**.
 
----
+## ✨ Funcionalidades (Features)
+1. **Catálogo de Sabores y Precios:** Visualización organizada de helados clásicos, especiales y presentaciones con sus respectivos costos.
+2. **Diseño Responsivo:** Interfaz adaptable a computadoras, tablets y teléfonos móviles.
+3. **Navegación Fluida:** Barra superior fija con enlaces directos a cada sección de la página.
+4. **Sección de Equipo:** Presentación visual con fotografía y roles de los integrantes detrás del proyecto.
+5. **Información de Contacto:** Ubicación física, horarios de atención y enlaces rápidos para pedidos.
 
-## 📋 Estructura de la Página (4 Secciones)
+## 🛠️ Staff Tecnológico
+* **HTML5:** Estructura semántica del sitio web.
+* **CSS3:** Estilos personalizados, paleta de colores y diseño adaptable.
+* **JavaScript:** Interactividad básica en la interfaz y menú móvil.
+* **Git y GitHub:** Control de versiones y alojamiento del repositorio.
+* **Google Antigravity:** Entorno de desarrollo asistido por agentes de IA.
 
-El proyecto está diseñado para ser directo, fácil de exponer y visualmente atractivo, organizado estrictamente en cuatro secciones clave:
-
-1. **Inicio (Navbar y Hero)**
-   - Barra de navegación fija con logo, menú responsive para celulares y enlaces directos a cada sección.
-   - Hero principal con título de la marca, lema artesanal, botones de llamada a la acción (*Call-to-Action*) y sellos de calidad (100% natural, elaboración diaria).
-
-2. **Menú de Sabores y Precios**
-   - Tarjetas de presentación con fotos de alta resolución, descripciones detalladas de ingredientes, etiquetas distintivas (*Más Popular*, *Gourmet*, *Vegano*) y precio unitario.
-   - Tabla comparativa de presentaciones y precios (Cucurucho simple, doble, pote 1/2 kg y pote familiar de 1 kg).
-
-3. **Nuestro Equipo**
-   - Tarjetas de presentación individual con espacio para foto, nombre completo, insignia de rol y descripción detallada del aporte de cada integrante en el proyecto.
-   - Integrantes incluidos:
-     - **Mimi González**: Fundadora & Maestra Heladera
-     - **Carlos Méndez**: Chef Chocolatier & Pastelero
-     - **Sofía Valenzuela**: Directora de Calidad & Proveedores
-     - **Mateo Rivas**: Coordinador de Experiencia & Logística
-
-4. **Contacto y Pie de Página (Footer)**
-   - Panel de información con tarjetas para: dirección física, horarios de atención, números de contacto y correo.
-   - Enlaces a redes sociales (Instagram, Facebook, TikTok, WhatsApp).
-   - Formulario de contacto interactivo con confirmación inmediata sin recarga.
-   - Pie de página con créditos de presentación académica y derechos reservados.
-
----
-
-## 🛠️ Tecnologías Utilizadas
-
-- **HTML5 Semántico**: Estructura limpia y accesible sin etiquetas innecesarias.
-- **CSS3 Moderno**: Variables CSS (`:root`), Flexbox, CSS Grid y Media Queries para diseño totalmente adaptable (*responsive*).
-- **JavaScript (Vanilla)**: Control del menú desplegable móvil, efecto *scroll spy* para destacar la sección activa y gestión del formulario de contacto.
-- **Google Fonts & FontAwesome**: Tipografía *Poppins* e iconos vectoriales.
-
----
-
-## 🚀 Cómo Visualizar el Proyecto
-
-Basta con abrir el archivo `index.html` en cualquier navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari) haciendo doble clic sobre él.
+## 📁 Estructura de Carpetas
+```text
+mi-heladeria/
+├── index.html          # Página principal del sitio
+├── style.css           # Hojas de estilo y diseño visual
+├── script.js           # Lógica e interactividad
+├── images/             # Fotografías de helados y del equipo
+└── README.md           # Documentación del proyecto
