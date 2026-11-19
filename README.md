@@ -19,6 +19,11 @@ Sitio web sencillo y responsivo diseñado para promocionar los productos, sabore
 * **Git y GitHub:** Control de versiones y alojamiento del repositorio.
 * **Google Antigravity:** Entorno de desarrollo asistido por agentes de IA.
 
+## 🚀 Cómo instalar y visualizar la página 
+
+Basta con abrir el archivo `index.html` en cualquier navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari) haciendo doble clic sobre él.
+
+
 ## 📁 Estructura de Carpetas
 ```text
 mi-heladeria/
