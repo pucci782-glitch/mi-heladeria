@@ -2,6 +2,9 @@
 
 Sitio web sencillo y responsivo diseñado para promocionar los productos, sabores y equipo de trabajo de la heladería artesanal **Mimi Helados**.
 
+## 📸 Vista Previa
+![Vista previa de Mimi Helados](images/preview1.jpg)
+
 ## ✨ Funcionalidades (Features)
 1. **Catálogo de Sabores y Precios:** Visualización organizada de helados clásicos, especiales y presentaciones con sus respectivos costos.
 2. **Diseño Responsivo:** Interfaz adaptable a computadoras, tablets y teléfonos móviles.
@@ -24,3 +27,4 @@ mi-heladeria/
 ├── script.js           # Lógica e interactividad
 ├── images/             # Fotografías de helados y del equipo
 └── README.md           # Documentación del proyecto
+
